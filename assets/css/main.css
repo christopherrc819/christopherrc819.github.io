@@ -3219,14 +3219,3 @@ input, select, textarea {
 			}
 
 	}
-	#wolf {
-		max-width: 300px;
-		width: 100%;
-		min-width: 250px;
-	}
-	.wolf {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-	}
